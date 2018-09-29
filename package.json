@@ -1,0 +1,19 @@
+{
+  "name": "JMS",
+  "version": "1.0.0",
+  "description": "Boilerplate for JMS projects",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "webpack": "^4.19.1",
+    "webpack-cli": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ./server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode=development"
+  },
+  "author": "Jalen Moorer",
+  "license": "ISC"
+}
