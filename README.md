@@ -3,8 +3,9 @@
 ## Things to add
 
  * **Webpack**
-  * Live-server
-  * Babel transpiler
+  * ~Live-Server~
+  * ~Babel Transpiler~
+  * ~Watcher~
 
  * **Javascript**
   * React
@@ -14,3 +15,5 @@
 
  * **CSS**
   * CSS Modules
+  * CSS Loader
+  * Style Loader
